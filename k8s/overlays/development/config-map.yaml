@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://blogs.urz.uni-halle.de/memekultur/files/elementor/thumbs/Meme1-oxj1klbtj7fcepqduj04tf2to6prf1inj02zh11x9c.jpg"
     ]
 kind: ConfigMap
 metadata:
